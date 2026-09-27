@@ -1,2 +1,2 @@
 # bayes_python
-Python-based causal inference and Bayesian modeling study repository
+「Pythonでスラスラわかるベイズ推論超入門」の実践コード
